@@ -221,3 +221,66 @@
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
+<br>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3200&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Future+scope:+building+better+systems,+cleaner+code,+and+fewer+surprises."
+    alt="Future Scope SVG"
+  />
+</div>
+
+<br>
+
+<img
+  src="https://i.pinimg.com/736x/f0/88/ac/f088ac16f22616b41992fadfdf6b7286.jpg"
+  width="240"
+  height="240"
+  align="right"
+/>
+
+<div>
+
+<b><i>Maybe the future is not fully planned… but let’s assume I figure it out along the way.</i></b><br><br>
+
+<b><i>Turning data into direction</i></b> — learning how information can guide better decisions rather than just exist<br>
+<b><i>Working with predictive systems</i></b> — exploring how patterns can hint at what comes next<br>
+<b><i>Improving analytical thinking</i></b> — focusing on clarity, reasoning, and structured understanding<br>
+<b><i>Managing and organizing data systems</i></b> — keeping complexity from turning into chaos<br>
+<b><i>Building efficient workflows</i></b> — making processes smoother, faster, and more reliable over time<br>
+<b><i>Continuous skill evolution</i></b> — because learning never really settles in this field<br>
+
+</div>
+          
+<br>
+<br>
+
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3200&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=TL;DR:+A+brain+full+of+ideas,+a+repo+full+of+experiments,+and+occasional+success."
+    alt="TL;DR SVG"
+  />
+</div>
+
+<div align="center">
+
+<b><i>Who am I?</i></b> — A curious developer who overthinks logic, builds data-driven systems, and occasionally introduces “unexpected features” 😎💻<br>
+<b><i>What I do?</i></b> — Work with data, models, and code to turn complexity into something (mostly) understandable 🤯<br>
+<b><i>Skills & Tools:</i></b> Python, Java, C, C++, SQL, Power BI, Tableau, Streamlit, Jupyter, and various libraries that keep me on my toes 👀<br>
+<b><i>Current Focus:</i></b> Building reliable systems, improving workflows, and reducing the number of surprise errors ⚡<br>
+<b><i>Fun Fact:</i></b> Most problems look simple… until I try solving them at midnight 😵‍💫<br>
+<b><i>Bottom Line:</i></b> Build. Break. Improve. Repeat — with coffee as a dependency 😏<br>
+
+</div>
+<br>
+<br>
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3200&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=220&multiline=true&repeat=false&lines=That%E2%80%99s+all+from+me+(for+now).;Thanks+for+surviving+the+chaos+of+my+repository+%F0%9F%98%AD;Bugs+were+invited%2C+not+accidental+%F0%9F%98%85;Viewer+discretion+was+advised%E2%80%A6+hopefully+you+ignored+it+%F0%9F%A4%96"
+    alt="Final Message SVG"
+  />
+</div>
+<br>
