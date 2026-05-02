@@ -260,7 +260,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3200&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=TL;DR:+A+brain+full+of+ideas,+a+repo+full+of+experiments,+and+occasional+success."
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3200&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=TLDR:+A+brain+full+of+ideas,+a+repo+full+of+experiments,+and+occasional+success."
     alt="TL;DR SVG"
   />
 </div>
