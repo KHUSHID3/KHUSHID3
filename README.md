@@ -180,3 +180,44 @@
 <br>
 <br>
 
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Tools+are+ready%2C+brain+is+negotiating+terms%E2%80%A6;here+are+the+projects+that+made+it+through."
+    alt="Projects Header SVG"
+  />
+</div>
+
+
+
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3200&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=160&multiline=true&repeat=false&lines=All+these+GitHub+stats+look+impressive%E2%80%A6;my+code+still+prefers+chaos+over+consistency."
+    alt="GitHub Stats Header"
+  />
+</div>
+
+<br>
+
+<!-- First row (2 side by side) -->
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KHUSHID3&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true&hide_border=true" width="45%"/><img src="https://streak-stats.demolab.com?user=KHUSHID3&theme=blue-green&hide_border=true" width="45%"/>
+</p>
+
+<!-- Second row (centered single card) -->
+<p align="center">
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KHUSHID3&layout=compact&langs_count=8&theme=blue-green&hide_border=true" 
+    width="45%"
+  />
+</p>
+<br>
+<br>
+
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
