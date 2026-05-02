@@ -76,3 +76,107 @@
 <br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=2800&pause=900&color=FF4DA6&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Ever+questioned+what+I%E2%80%99ve+been+doing+instead+of+sleeping%3F" 
+    alt="Sarcastic Skills Intro"
+  />
+</div>
+
+<div >
+  <!-- text on the right -->
+<div>
+  <b><i>What I’ve been spending most of my time figuring out:</i></b><br><br>
+
+  - Computer Science (B.Tech) — learning how logic quietly runs the world while I occasionally overthink it (｡•̀ᴗ-)✧<br>
+  - Data Science & Analytics — making sense of data that sometimes makes sense only after I stare at it long enough (¬‿¬)<br>
+  - Machine Learning — training models while also getting trained by errors and edge cases (￣︶￣)<br>
+  - SQL — politely convincing databases to return what I actually meant (⌐■_■)<br>
+  - Python — making things work efficiently… most of the time on the first try (•‿•)<br>
+  - C & C++ — where I’ve learned that small mistakes enjoy making a big entrance (￣□￣)<br>
+
+</div>
+
+</div>
+<br>
+<br>
+
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2800&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=So+many+tools%2C+so+many+possibilities...;Still+figuring+out+which+ones+actually+deserve+runtime."
+    alt="Tools and Runtime SVG"
+  />
+</div>
+
+<b><i>Languages I use to turn confusion into code (•‿•) :</i></b><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" />
+</p>
+
+<b><i>Frontend development that turns ideas into interfaces (•‿•): </i></b><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css&theme=dark" height="60"/>
+</p>
+
+<b><i>Databases I query until they finally cooperate (⌐■_■) :</i></b><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" height="65"/>
+</p>
+
+<b><i>Tools & Platforms that expose my debugging decisions (◕‿◕) :</i></b><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,git,vscode&theme=dark" height="60"/>
+</p>
+
+<b><i>Data Science / ML libraries I keep running on caffeine and curiosity (◠‿◠) :</i></b><br><br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" height="60"/>
+</p>
+
+<b><i>Data Visualization & BI tools I use to make data look less confusing (ಠ_ಠ) :</i></b><br><br>
+<p align="center">
+  <a href="#"><img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" title="Power BI: plotting my life"/></a>
+  <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" title="Tableau: making dashboards scream"/></a>
+  <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" title="Jupyter: notebooks of despair"/></a>
+</p>
+<br>
+<br>
+
+<p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
+
+<br>
+<div align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2800&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Currently+focused+on+building+projects+that+survive+both+runtime+and+review."
+    alt="Current Focus SVG"
+  />
+</div>
+
+<img
+  src="https://i.pinimg.com/1200x/10/a8/4d/10a84d49e590b208a58a1214a5f3242a.jpg"
+  width="240"
+  height="240"
+  align="right"
+/>
+
+<div>
+
+<b><i>Currently focused on:</i></b><br><br>
+
+<b><i>😌 C & C++</i></b> — where precision matters and every small mistake teaches something big<br>
+<b><i>🙂 Java & DSA</i></b> — building logic and problem-solving foundations through consistent practice<br>
+<b><i>😊 Python</i></b> — turning ideas into working solutions with flexibility and ease<br>
+<b><i>😄 SQL & Databases</i></b> — structuring queries until data finally cooperates<br>
+<b><i>🙂 Data Science & Analytics</i></b> — finding patterns in data that don’t always reveal themselves easily<br>
+<b><i>😌 Predictive Modeling</i></b> — making informed guesses using patterns, logic, and a bit of optimism<br>
+<b><i>😊 Machine Learning</i></b> — building systems that improve over time while I improve through iteration<br>
+
+</div>
+<br>
+<br>
+
