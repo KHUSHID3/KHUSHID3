@@ -189,7 +189,59 @@
   />
 </div>
 
+<!-- Project 1 -->
+<div align="left">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/63224b6b-3847-4e9c-9519-4ac218e95bc9" />
+  <h3>Parallel Text Handling Processor</h3>
+  <p>
+    Built using Python, NLP techniques, and parallel processing to efficiently analyze large volumes of disaster-related communication data. The system processes text at scale, extracts sentiment patterns, and presents insights through an interactive interface designed for clarity and speed.  Focused on turning unstructured, high-volume text into structured insights while keeping performance optimized and responses fast.
+  </p>
+  <p>
+    Designed to handle complexity without slowing down — because real-world data rarely arrives in neat, predictable formats 😅.
+  </p>
+  <a href="https://github.com/KHUSHID3/Parallel-Text-Handling-Processor-" target="_blank">Explore the Project 🚀</a>
+</div>
 
+<!-- Project 2 -->
+<div align="right">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/8a1df96a-3e27-4c33-89ee-cb56ffb22224" />
+  <h3>Emotion Detection App</h3>
+  <p>
+    Built using Python and NLP techniques to analyze text data from structured CSV files 📊.  The application processes input data, detects underlying emotions, and presents results in a clear and interpretable format for analysis.
+  </p>
+  <p>
+    Focused on making emotion detection reliable and easy to work with — even when the data isn’t 😅.
+  </p>
+  <a href="https://github.com/KHUSHID3/emotion-detection-app" target="_blank">View the Analysis 🧠</a>
+</div>
+
+<!-- Project 3 -->
+<div align="left">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/dbd7a3e6-884c-445b-abdf-57d7f5c04155" />
+  <h3>House Price Prediction</h3>
+  <p>
+    A machine learning project built using Python, scikit-learn, and Streamlit to predict house prices in Bangalore. The model analyzes real estate data, identifies key factors influencing pricing, and provides estimated property values through an interactive interface.
+  </p>
+  <p>
+    Focused on making price estimation data-driven — because guessing wasn’t working 😅.
+  </p>
+  <a href="https://github.com/KHUSHID3/ml-house-price-dashboard" target="_blank">View the Project 🏡</a>
+</div>
+
+<!-- Project 4 -->
+<div align="right">
+  <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/eae42918-ed0e-42c3-afc3-43b03dc47473" />
+  <h3>Mental Health Simulator</h3>
+  <p>
+    A web-based simulator built using HTML, CSS, and JavaScript (XAMPP) to create an interactive environment for exploring mental health scenarios. Designed to simulate user interactions and responses, helping illustrate different emotional states and behavioral patterns in a structured way.
+  </p>
+  <p>
+    Built with the intention of creating awareness and encouraging thoughtful interaction — because understanding matters 😌.
+  </p>
+  <a href="https://github.com/KHUSHID3/Mental-Health-Simulator" target="_blank">Explore the Simulator 🧠</a>
+</div>
+
+<br>
 
 <p align="center" style="opacity: 0.7;">• • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •</p>
 
