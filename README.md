@@ -1,6 +1,7 @@
 <div align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=900&color=FF4DA6&center=true&vCenter=true&width=880&height=220&multiline=true&repeat=false&lines=Me%3A+fixes+one+bug;Code%3A+feels+lighter;Two+new+bugs%3A+appear;Me%3A+excellent+trade" 
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=28&duration=2800&pause=900&color=FF4DA6&center=true&vCenter=true&width=920&height=260&multiline=true&repeat=false&lines=Me:%20refactors%20carefully;Code:%20takes%20it%20personally;Two%20new%20bugs:%20seize%20the%20opportunity;Git%20history:%20keeps%20receipts;Retrospective:%20identifies%20learnings;Me:%20craftsmanship%20in%20action"
+    alt="Typing SVG"
   />
 </div>
 
