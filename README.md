@@ -8,7 +8,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=32&duration=2600&pause=800&color=FF4DA6&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Guess+who+wrote+this+perfectly+imperfect+code%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=2600&pause=800&color=FF4DA6&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Guess+who+wrote+this+perfectly+imperfect+code%3F" 
     alt="Sarcastic Leading Question" 
   />
 </div>
@@ -108,7 +108,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2800&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=So+many+tools%2C+so+many+possibilities...;Still+figuring+out+which+ones+actually+deserve+runtime."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2800&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=So+many+tools%2C+so+many+possibilities...;Still+figuring+out+which+ones+actually+deserve+runtime."
     alt="Tools and Runtime SVG"
   />
 </div>
@@ -152,7 +152,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=2800&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Currently+focused+on+building+projects+that+survive+both+runtime+and+review."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=2800&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Currently+focused+on+building+projects+that+survive+both+runtime+and+review."
     alt="Current Focus SVG"
   />
 </div>
@@ -184,7 +184,7 @@
 
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Tools+are+ready%2C+brain+is+negotiating+terms%E2%80%A6;here+are+the+projects+that+made+it+through."
+    src="https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3000&pause=900&color=FF4DA6&center=true&vCenter=true&width=1200&height=140&multiline=true&repeat=false&lines=Tools+are+ready%2C+brain+is+negotiating+terms%E2%80%A6;here+are+the+projects+that+made+it+through."
     alt="Projects Header SVG"
   />
 </div>
