@@ -80,7 +80,7 @@
 <br>
 <div align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=28&duration=2800&pause=900&color=FF4DA6&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Ever+questioned+what+I%E2%80%99ve+been+doing+instead+of+sleeping%3F" 
+    src="https://readme-typing-svg.demolab.com?font=Poppins:ital,wght@1,700&weight=700&size=24&duration=2800&pause=900&color=FF4DA6&center=true&vCenter=true&width=880&height=120&multiline=true&repeat=false&lines=Ever+questioned+what+I%E2%80%99ve+been+doing+instead+of+sleeping%3F" 
     alt="Sarcastic Skills Intro"
   />
 </div>
